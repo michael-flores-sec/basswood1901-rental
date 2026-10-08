@@ -1,2 +1,2 @@
-# basswood1901-Rental
+# basswood1901-rtental
 This is a website for Basswood 1901 rental property.
